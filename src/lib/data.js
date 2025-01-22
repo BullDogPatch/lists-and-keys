@@ -29,4 +29,10 @@ export const data = [
       'https://images.unsplash.com/photo-1728930973803-64502b03dd3d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGVuZ2xpc2glMjBidWxsZG9nfGVufDB8fDB8fHww',
     alt: 'image of English Bulldog',
   },
+  {
+    id: 6,
+    imageUrl:
+      'https://images.unsplash.com/photo-1504226328501-e04bf02384be?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGVuZ2xpc2glMjBidWxsZG9nfGVufDB8fDB8fHww',
+    alt: 'image of English Bulldog',
+  },
 ];

@@ -4,7 +4,7 @@ import './Header.css';
 const Header = () => {
   return (
     <header className='header'>
-      <Heading title='Styling in React' />
+      <Heading title='Lists and Keys in React' />
     </header>
   );
 };
